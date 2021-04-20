@@ -1,0 +1,45 @@
+body {height: 100%;	font-family:'Oswald', Arial;font-size: 16px;line-height: 1.7;	color: #666666;	-webkit-font-smoothing: antialiased;-webkit-text-size-adjust: 100%;	background: #fff;	transition: all 0.3s linear;-webkit-transition: all 0.3s linear;-moz-transition: all 0.3s linear;-o-transition: all 0.3s linear; margin: 0;	padding: 0;	}
+
+p {color: #858585;	margin: 0 0 1em !important;}
+h1, h2, h3, h4, h5, h6, #home .heading strong {	font-family:'Oswald', Arial;}
+.fitImage {max-width: 100%;	vertical-align: middle;	display: inline-block;}
+.animated {animation-duration: 1s;	-webkit-animation-delay: 0s;	animation-delay: 0s;}
+
+#top {position: relative;}
+.topHome {position: fixed;bottom: 20px;	right: 20px;z-index: 5;}
+.topHome:hover {color: #F89F9F;}
+h2, .h2 {font-size: 43px;}
+#Header {margin-bottom: 52px;position: relative;width: 100%;height: 119px;line-height: 118px;z-index: 1;padding-top: 30px}
+#overlay {background: rgba(0, 0, 0, 0.56) url(../i/overlays/01.png) top left repeat;position: fixed;top: 0px;width: 100%;bottom: 0px;opacity: 0.8;}
+.banner-container {	background: rgba(0, 0, 0, 0.05);background-image: url('../i/dots.png');background-repeat: repeat;height: 760px;}
+
+/*home*/
+
+#home .heading h2 {color: #fff;	font-size: 54px !important;}
+#home .heading strong {color: #fff;	font-size: 30px;font-weight: normal;}
+.header {position: fixed;	width: 100%;background: rgba(27, 27, 27, 0.31);	z-index: 50;border-radius: 0;top: 0px;border-bottom: 1px solid rgba(214, 214, 214, 0.26);}
+.heading {padding: 3px 10px;padding-bottom: 15px;margin-bottom: 30px;display: block;}
+
+
+.heading h1{font-size:56px;	font-weight:300; color:#fff;	text-align:center;}
+
+.heading h1 span{font-size:56px;}
+.yellow{color:#ff9c00;font-size:56px;}
+.fa-rocket{ font-size:48px !important;  margin:185px 0px 0px 0px;  font-size: 72px; color:#ff9c00;}
+
+
+
+@media (max-width: 768px) {
+.banner-container {height: 700px;}
+#home .heading h1 {font-size: 44px !important;}
+#home .heading strong {font-size: 19px;}
+
+}
+
+
+@media (max-width: 480px) {
+
+#home .heading h1 {font-size: 34px !important;}
+#home .heading strong {font-size: 14px;}
+
+}
