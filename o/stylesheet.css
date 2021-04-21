@@ -1,4 +1,4 @@
-body {height: 100%;	font-family:'Oswald', Arial;font-size: 16px;line-height: 1.7;	color: #666666;	-webkit-font-smoothing: antialiased;-webkit-text-size-adjust: 100%;	background: #fff;	transition: all 0.3s linear;-webkit-transition: all 0.3s linear;-moz-transition: all 0.3s linear;-o-transition: all 0.3s linear; margin: 0;	padding: 0;	}
+body {height: 100%;	font-family:'Oswald', Arial;font-size: 16px;line-height: 1.7;	color:  #ff5733;	-webkit-font-smoothing: antialiased;-webkit-text-size-adjust: 100%;	background:  #5333ff ;	transition: all 0.3s linear;-webkit-transition: all 0.3s linear;-moz-transition: all 0.3s linear;-o-transition: all 0.3s linear; margin: 0;	padding: 0;	}
 
 p {color: #858585;	margin: 0 0 1em !important;}
 h1, h2, h3, h4, h5, h6, #home .heading strong {	font-family:'Oswald', Arial;}
