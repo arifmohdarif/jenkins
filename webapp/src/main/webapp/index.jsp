@@ -12,7 +12,8 @@
 <link href='http://fonts.googleapis.com/css?family=Oswald:400,300,700' rel='stylesheet' type='text/css'>
 </head>
 <body>
-        <h1>Contact: arifmohdarif29@gmail.com</h2>
+        <h1>Contact: arifmohdarif29@gmail.com</h1>
+	<h2>PhNo: 0000000000</h2>
 <div id="#top"></div>
 <section id="home">
   <div class="banner-container">
