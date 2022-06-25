@@ -13,7 +13,7 @@
 </head>
 <body>
         <h1>Contact: arifmohdarif29@gmail.com</h1>
-	<h2>PhNo: 0000000000</h2>
+	<h2>PhNo:9700089279</h2>
 <div id="#top"></div>
 <section id="home">
   <div class="banner-container">
